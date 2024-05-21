@@ -5,6 +5,7 @@
 [![kernel-v4.19](https://github.com/fs-nick-li/fs1816non-firmware-drv/actions/workflows/ci-v4.19.yml/badge.svg)](https://github.com/fs-nick-li/fs1816non-firmware-drv/actions/workflows/ci-v4.19.yml)
 [![kernel-v5.15](https://github.com/fs-nick-li/fs1816non-firmware-drv/actions/workflows/ci-v5.15.yml/badge.svg)](https://github.com/fs-nick-li/fs1816non-firmware-drv/actions/workflows/ci-v5.15.yml)
 [![kernel-v6.1](https://github.com/fs-nick-li/fs1816non-firmware-drv/actions/workflows/ci-v6.1.yml/badge.svg)](https://github.com/fs-nick-li/fs1816non-firmware-drv/actions/workflows/ci-v6.1.yml)
+[![kernel-v6.6](https://github.com/fs-nick-li/fs1816non-firmware-drv/actions/workflows/ci-v6.6.yml/badge.svg)](https://github.com/fs-nick-li/fs1816non-firmware-drv/actions/workflows/ci-v6.6.yml)
 
 ## About FS1816
 
